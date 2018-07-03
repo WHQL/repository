@@ -17,4 +17,4 @@ Creating a new branch is quick AND simple.
 
 Creating a new branch is quick and simple
 
-new commit readme.txt
+new commit readme.txt is change
