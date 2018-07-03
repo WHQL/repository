@@ -8,6 +8,11 @@ lallallalla 第一次修改
 
 creating a new branch is quick
 
+<<<<<<< HEAD
 Creating a new branch is quick a simple
 
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
 
+Creating a new branch is quick and simple
